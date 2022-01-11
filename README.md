@@ -25,8 +25,8 @@
 #### Connect with me:
 
 [<img align="left" height="22" width="22"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
-[<img align="left" height="22" width="22"  src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
-[<img align="left" height="22" width="22"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][instagram]
+[<img align="left" height="22" width="22"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/264px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" height="22" width="22"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 </br>
 </br>
