@@ -6,8 +6,6 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on some personal project
-- 🌱 I’m currently learning React
-- 👯 2022 Goals: Contribute to Open Source
 - ⚡ Fun fact: I can dance
 
 #### Languages and Tools:
